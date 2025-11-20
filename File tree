@@ -1,0 +1,14 @@
+github/workflows/ci-cd.yml
+k8s/namespace.yaml
+k8s/ingress-controller/nginx-ingress-controller.yaml
+k8s/cert-manager/cluster-issuer-staging.yaml
+k8s/cert-manager/cluster-issuer-prod.yaml
+k8s/cert-manager/certificate.yaml
+k8s/mongodb/statefulset.yaml
+k8s/mongodb/service.yaml
+k8s/clients-api/deployment.yaml
+k8s/clients-api/service.yaml
+k8s/clients-api/ingress.yaml
+k8s/clients-api/configmap.yaml
+k8s/clients-api/secret-example.yaml
+README-usage.md
